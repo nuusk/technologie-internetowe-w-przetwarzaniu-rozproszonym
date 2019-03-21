@@ -1,6 +1,7 @@
 # Technologie internetowe w przetwarzaniu rozproszonym
 
 * [Project board](https://github.com/pietersweter/technologie-internetowe-w-przetwarzaniu-rozproszonym/projects/1?add_cards_query=is%3Aopen)
+* [Classes board](https://github.com/pietersweter/technologie-internetowe-w-przetwarzaniu-rozproszonym/projects/2)
 
 ## REST
 
